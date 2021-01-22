@@ -66,7 +66,6 @@ Send2Trash==1.5.0
 sklearn==0.0
 terminado==0.9.2
 testpath==0.4.4
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.7.4.3
