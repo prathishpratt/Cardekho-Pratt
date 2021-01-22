@@ -22,7 +22,6 @@ ipywidgets==7.6.3
 itsdangerous==1.1.0
 jedi==0.18.0
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1607970656719/work
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
