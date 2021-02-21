@@ -12,3 +12,6 @@ fuel
 seller_type
 transmission
 Owner
+
+SCREENSHOT
+![alt text](https://github.com/prathishpratt/Cardekho-Pratt/blob/main/Screenshot%202021-01-22%20235739.jpg?raw=true)
